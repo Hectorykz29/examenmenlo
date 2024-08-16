@@ -45,7 +45,7 @@ class _HomePageState extends State<HomePage> {
             Text(
               'Calculadora de Préstamos',
               style: TextStyle(
-                fontSize: 28, // Texto más grande
+                fontSize: 28,
                 fontWeight: FontWeight.bold,
                 color: Colors.black,
               ),
@@ -53,7 +53,7 @@ class _HomePageState extends State<HomePage> {
             Text(
               'Obtenga un préstamo bancario con solo unos pocos clics',
               style: TextStyle(
-                fontSize: 18, // Texto más grande
+                fontSize: 18, 
                 color: Colors.grey[800],
               ),
             ),
